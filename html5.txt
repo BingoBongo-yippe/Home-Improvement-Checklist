@@ -1,0 +1,359 @@
+<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+					
+					
+
+						
+
+						<div class="" data-fragments-editor-item-id="29801-47272703" data-fragments-editor-item-type="fragments-editor-mapped-item">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article " data-analytics-asset-id="47272701" data-analytics-asset-title="Home imprvement loan checklist" data-analytics-asset-type="web-content">
+			
+
+			    <section class="am-numbered-list showElement">
+        <div class="am-numbered-list__container">
+            <div class="am-numbered-list__item-container" data-itemid="0">
+                <div class="am-numbered-list__number-container showElement">
+                        <span class="am-numbered-list__number">
+                                    1.
+                                </span>
+                </div>
+                <div class="am-numbered-list__text-container showElement">
+                            <div class="am-numbered-list__title-container">
+                                    <span class="am-numbered-list__title">
+                                        Match your plans with your goals
+                                    </span>
+                            </div>
+                        <div class="am-numbered-list__description-container">
+                            <p>Are you absolutely satisfied that your plans will deliver what’s needed – for example, if converting your attic, will the new room be large enough for the purpose you’ve planned? Or are you clear by how much you will save by retrofitting insulation?&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+            <div class="am-numbered-list__item-container" data-itemid="1">
+                <div class="am-numbered-list__number-container showElement">
+                        <span class="am-numbered-list__number">
+                                    2.
+                                </span>
+                </div>
+                <div class="am-numbered-list__text-container showElement">
+                            <div class="am-numbered-list__title-container">
+                                    <span class="am-numbered-list__title">
+                                        Clearly brief your contractors
+                                    </span>
+                            </div>
+                        <div class="am-numbered-list__description-container">
+                            <p>Have you clearly briefed contractors such as architects and suppliers? Vague plans and changes-of-mind in the middle of a project will result in higher costs.&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+            <div class="am-numbered-list__item-container" data-itemid="2">
+                <div class="am-numbered-list__number-container showElement">
+                        <span class="am-numbered-list__number">
+                                    3.
+                                </span>
+                </div>
+                <div class="am-numbered-list__text-container showElement">
+                            <div class="am-numbered-list__title-container">
+                                    <span class="am-numbered-list__title">
+                                        Budget for unexpected costs
+                                    </span>
+                            </div>
+                        <div class="am-numbered-list__description-container">
+                            <p>Always ensure that your project includes a contingency budget to cover unforeseen expenses. Pulling up floorboards or removing plaster from walls often reveals unexpected problems that need fixing.&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+            <div class="am-numbered-list__item-container" data-itemid="3">
+                <div class="am-numbered-list__number-container showElement">
+                        <span class="am-numbered-list__number">
+                                    4.
+                                </span>
+                </div>
+                <div class="am-numbered-list__text-container showElement">
+                            <div class="am-numbered-list__title-container">
+                                    <span class="am-numbered-list__title">
+                                        Set a realistic timeline
+                                    </span>
+                            </div>
+                        <div class="am-numbered-list__description-container">
+                            <p>Give your contractors enough time. Racing to complete a job due to an unrealistic schedule can mean hiring costly extra resources.&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+            <div class="am-numbered-list__item-container" data-itemid="4">
+                <div class="am-numbered-list__number-container showElement">
+                        <span class="am-numbered-list__number">
+                                    5.
+                                </span>
+                </div>
+                <div class="am-numbered-list__text-container showElement">
+                            <div class="am-numbered-list__title-container">
+                                    <span class="am-numbered-list__title">
+                                        Check your suppliers’ credentials
+                                    </span>
+                            </div>
+                        <div class="am-numbered-list__description-container">
+                            <p>Are your contractors up to the challenge? Make sure you get testimonials from previous clients who have had similar work done.&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+            <div class="am-numbered-list__item-container" data-itemid="5">
+                <div class="am-numbered-list__number-container showElement">
+                        <span class="am-numbered-list__number">
+                                    6.
+                                </span>
+                </div>
+                <div class="am-numbered-list__text-container showElement">
+                            <div class="am-numbered-list__title-container">
+                                    <span class="am-numbered-list__title">
+                                        Check the impact of your plan on your property’s BER
+                                    </span>
+                            </div>
+                        <div class="am-numbered-list__description-container">
+                            <p>BER is an important factor affecting your property’s value. When planning your improvement, try to ensure that the work will enhance your home’s overall energy efficiency.&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+            <div class="am-numbered-list__item-container" data-itemid="6">
+                <div class="am-numbered-list__number-container showElement">
+                        <span class="am-numbered-list__number">
+                                    7.
+                                </span>
+                </div>
+                <div class="am-numbered-list__text-container showElement">
+                            <div class="am-numbered-list__title-container">
+                                    <span class="am-numbered-list__title">
+                                        Acquire any necessary permissions If required
+                                    </span>
+                            </div>
+                        <div class="am-numbered-list__description-container">
+                            <p>It’s essential that all planning permissions have been granted before you do any work. In an extreme situation, work undertaken might have to be removed if permission is subsequently denied by a local authority.&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+            <div class="am-numbered-list__item-container" data-itemid="7">
+                <div class="am-numbered-list__number-container showElement">
+                        <span class="am-numbered-list__number">
+                                    8.
+                                </span>
+                </div>
+                <div class="am-numbered-list__text-container showElement">
+                            <div class="am-numbered-list__title-container">
+                                    <span class="am-numbered-list__title">
+                                        Organise alternative accommodation if required
+                                    </span>
+                            </div>
+                        <div class="am-numbered-list__description-container">
+                            <p>Will you need to move out while your work is being done? If so, don’t wait until the last minute to arrange temporary accommodation.&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+    <style>
+
+
+        #portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_1LJG1bgAQRGQ .am-numbered-list{
+            background-color: #FFF;
+            padding-top: 10vw;
+            padding-bottom: 10vw;
+        }
+
+        #portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_1LJG1bgAQRGQ .am-numbered-list__text-container {
+            color: #202020;
+        }
+
+        @media only screen and (min-width: 720px){
+            #portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_1LJG1bgAQRGQ .am-numbered-list{
+                padding-top: 4vw;
+                padding-bottom: 4vw;
+            }
+        }
+
+    </style>
+
+			
+		</div>
+
+		
+
+	
+
+
+
+						</div>
+					
+				
+			
+		
+	
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
